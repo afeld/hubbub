@@ -1,5 +1,6 @@
 Hubbub
 ======
+by Aidan Feldman
 
 Issues get messy, Hubbub keeps you organized.
 
